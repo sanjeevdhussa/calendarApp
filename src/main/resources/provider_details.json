@@ -1,0 +1,40 @@
+[{  
+   "provideId":"1",
+   "providerName":"Better Body clinic",
+   "calendarId":"mydemoclinic@gmail.com",
+   "startHours":"8",
+   "startMin":"30",
+   "endHours":"17",
+   "endMin":"30",
+   "serviceTypes":[  
+      {  
+         "serviceType":"Chiro",
+         "serviceDuration":"30"
+      },
+      {  
+         "serviceType":"physio",
+         "serviceDuration":"30"
+      }
+   ],
+   "timeZone":"Canada/Eastern",
+   "locale":"canada"
+},
+{  
+   "provideId":"2",
+   "providerName":"ABC clinic",
+   "calendarId":"abcclinic@gmail.com",
+   "startHours":"8",
+   "startMin":"0",
+   "endHours":"17",
+   "endMin":"0",
+   "serviceTypes":[  
+      {  
+         "serviceType":"general",
+         "serviceDuration":"30"
+      }
+      
+   ],
+   "timeZone":"Canada/Eastern",
+   "locale":"canada"
+}
+]
